@@ -11,12 +11,12 @@ This experiment was performed at the University of Hawaiʻi at Mānoa in PHYS 27
 ## Results
 | Plane | Order | Lattice Constant [cm] |
 |-------|-------|-----------------------|
-| 100   | n=1   | 3.30 ± 0.07           |
-| 100   | n=2   | 3.46 ± 0.03           |
-| 110   | n=1   | 3.43 ± 0.05           |
-| 210   | n=1   | 3.46 ± 0.02           |
+| 100   | n=1   | 3.6 ± 0.5             |
+| 100   | n=2   | 3.82 ± 0.18           |
+| 110   | n=1   | 3.79 ± 0.07           |
+| 210   | n=1   | 3.8 ± 0.2             |
 
-**Weighted average: a = 3.450 ± 0.015 cm**
+**Weighted average: a = 3.80 ± 0.14 cm**
 
 ## Requirements
 ```
